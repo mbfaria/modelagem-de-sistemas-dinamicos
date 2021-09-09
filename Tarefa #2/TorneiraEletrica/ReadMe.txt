@@ -1,0 +1,1 @@
+Para torneira3.txt, torneira4.txt, e torneira5.txt, assuma um tempo de amostragem regular de 1 seg.
