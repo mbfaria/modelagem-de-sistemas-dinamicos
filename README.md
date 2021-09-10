@@ -1,4 +1,4 @@
-# Técnicas de Modelagem de Sistemas Dinamicos
+# Técnicas de Modelagem de Sistemas Dinâmicos
 
 Trabalhos práticos e prova computacional da matéria Técnicas de Modelagem de Sistemas Dinâmicos (ELE016) da Escola de Engenharia da UFMG.
 
